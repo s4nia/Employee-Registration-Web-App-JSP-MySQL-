@@ -1,2 +1,2 @@
 # Employee-Registration-Web-App-JSP-MySQL-
-This project is a simple employee registration web application built with Java, JSP, and MySQL. The user submits their details through a JSP form, and the data is stored in a MySQL database using JDBC. It demonstrates basic full‑stack Java web development: JSP views, server-side processing, and database integration.
+This project is a simple employee registration web application built with Java, JSP, and MySQL. The user submits their details through a JSP form, and the data is stored in a MySQL database using JDBC. It demonstrates basic full‑stack Java web development: JSP views, server-side processing, and database integration and it can be run efficiently on eclipse
